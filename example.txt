@@ -1,1 +1,8 @@
-This is an example file for the MLOps-2024 repository.
+<<<<<<< HEAD
+This is the original content from the main branch.
+=======
+This is a modification in the M23CSA530 branch.
+>>>>>>> M23CSA530
+
+This is a modification in the M23CSA532 branch.
+>>>>>>> M23CSA532
